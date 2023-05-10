@@ -1,4 +1,4 @@
-package nguyenvanquan7826;
+package BFS_DFS;
 
 import java.util.ArrayList;
 import java.util.Stack;

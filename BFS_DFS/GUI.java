@@ -1,4 +1,4 @@
-package nguyenvanquan7826;
+package BFS_DFS;
 
 import java.awt.BorderLayout;
 import java.awt.Color;
